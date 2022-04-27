@@ -11,7 +11,9 @@ A sed command which does following:
 
 ## Command Description
 
+```
 sed -E -c -i.$(date "+%Y-%m-%d") '/([^ ]* ){2}nfs/ s/^(abc)+/xyz/i' /root/fstab
+```
 
 * -E Extended type Regular Expression.
 * -c Copy the file when taking backup.
