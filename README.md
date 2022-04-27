@@ -21,5 +21,8 @@ sed -E -c -i.$(date "+%Y-%m-%d") '/([^ ]* ){2}nfs/ s/^(abc)+/xyz/i' /root/fstab
 
 ## Reference
 
-
+* [regular expression cheat sheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
+* [sed manual page](https://linux.die.net/man/1/sed)
+* [basic usage of the sed command](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux)
+* [advanced usage of the sed command](https://www.gnu.org/software/sed/manual/html_node/advanced-sed.html)
 
