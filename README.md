@@ -29,4 +29,3 @@ A sed command which does following:
 * [sed manual page](https://linux.die.net/man/1/sed)
 * [basic usage of the sed command](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux)
 * [advanced usage of the sed command](https://www.gnu.org/software/sed/manual/html_node/advanced-sed.html)
-
