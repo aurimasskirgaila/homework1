@@ -2,6 +2,10 @@
 
 ## Table of Contents
 
+1. [Objective - What's the main goal](#objective)
+2. [Command Description - How does the command work](#command-description)
+3. [Reference](#reference)
+
 ## Objective
 
 A sed command which does following:
